@@ -1,1 +1,3 @@
-console.log("logic");
+function getResultClick() {
+  console.log("click");
+}
